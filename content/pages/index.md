@@ -8,10 +8,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'James Onyango '
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      In the arid lands of Kenya’s Kajiado County, where dusty winds sweep
+      through cracked earth and children walk for miles to find water, a quiet
+      revolution is taking root. Esther Naserian, a 41-year-old Maasai woman,
+      watches over her small solar-powered greenhouse with cautious pride.
+
+
+      “This was all dry,” she says, gesturing to a patch of green kale pushing
+      through sandy soil. “Now it feeds my family and the children next door.”
+
     actions:
       - label: See Tutorials
         altText: ''
