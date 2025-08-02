@@ -7,7 +7,7 @@ sections:
       text: 'From Nairobi to the Amazon telling stories of environment resilience '
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'James Onyango '
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
